@@ -123,5 +123,3 @@ Each notebook follows a structured approach:
 
 ---
 
-**Perfect for:** College coursework, data science portfolio, interview preparation, portfolio projects for internship applications
-
